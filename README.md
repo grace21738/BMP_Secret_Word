@@ -6,7 +6,7 @@
 
 若儲存的訊息超過bmp圖檔的能儲存的範圍則會出現error 錯誤訊息。
 
-<img src="C:\Users\grace\Desktop\剪貼簿-7.jpg" alt="剪貼簿-7" style="zoom:70%;" />
+<img src="C:\Users\grace\Desktop\SecretWord\剪貼簿-7.jpg" alt="剪貼簿-7" style="zoom:67%;" />
 
 
 
